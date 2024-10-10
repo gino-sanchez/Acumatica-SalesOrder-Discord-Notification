@@ -1,0 +1,1 @@
+"D:\Acumatica\DiscordIntegration\DiscordIntegration.sln"
