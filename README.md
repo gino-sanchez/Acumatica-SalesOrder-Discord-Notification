@@ -18,7 +18,7 @@ To use this customization, you will need:
 * A Discord webhook URL (You can create one by following Discord's guide on creating webhooks).
 ### Installation
 1. Clone or download this repository.
-2. In Acumatica, navigate to **System** > **Customization Projects** > **Source Control** > **Open Project from Folder** > Locate to **_CustomizationProjects > Double Click **DiscordIntegration** > Hit **OK** from the Dialog box.
+2. In Acumatica, navigate to **System** > **Customization Projects** > **Source Control** > **Open Project from Folder** > Locate to **_CustomizationProjects** > Double Click **DiscordIntegration** > Hit **OK** from the Dialog box.
 3. Publish the customization project in Acumatica.
 ### Configuration
 1. After installing the customization, navigate to the **Discord** Workspace in Acumatica:
