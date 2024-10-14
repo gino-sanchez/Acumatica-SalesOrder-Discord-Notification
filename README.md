@@ -21,9 +21,9 @@ To use this customization, you will need:
 2. In Acumatica, navigate to **System** > **Customization Projects** > **Source Control** > **Open Project from Folder** > Locate to **_CustomizationProjects** > Double Click **DiscordIntegration** > Hit **OK** from the Dialog box.
 3. Publish the customization project in Acumatica.
 ### Configuration
-1. After installing the customization, navigate to the **Discord** Workspace in Acumatica:
-2. Input the webhook URL provided by Discord.
-3. Enable the notifications feature.
+1. After installing the customization, navigate to the **Discord** Workspace > **Webhook Setup**
+2. Enable the notifications feature.
+3. Input the webhook URL provided by Discord.
 4. Customize which sales orders trigger notifications by modifying the conditions in the code if necessary (Optional). By default, the trigger is upon save of the Sales Order document. 
 ### Usage 
 Once set up, the customization works automatically when a Sales Order is created and saved. A webhook message is sent to the specified Discord channel, containing the following details:
